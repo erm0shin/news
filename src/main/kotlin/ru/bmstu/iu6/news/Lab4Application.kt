@@ -1,4 +1,4 @@
-package ru.bmstu.iu6.lab4
+package ru.bmstu.iu6.news
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class Lab4Application
 
 fun main(args: Array<String>) {
-	runApplication<Lab4Application>(*args)
+    runApplication<Lab4Application>(*args)
 }
