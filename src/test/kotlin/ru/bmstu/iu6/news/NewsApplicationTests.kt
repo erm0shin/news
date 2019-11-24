@@ -1,10 +1,10 @@
-package ru.bmstu.iu6.lab4
+package ru.bmstu.iu6.news
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class Lab4ApplicationTests {
+class NewsApplicationTests {
 
 	@Test
 	fun contextLoads() {
